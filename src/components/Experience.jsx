@@ -27,7 +27,8 @@ const Experience = () => {
             <div className="mt-3 sm:pe-8">
               <h3 className="text-lg font-bold text-gray-900 dark:text-black">Trip Fox Travellers</h3>
               <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-800">February, 2024 - currently</time>
-              <p className="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
+              <p className="text-base font-normal text-gray-500 dark:text-gray-400">As the Lead Web Development Intern at TripFox Travellers, I spearheaded MERN stack projects, collaborating
+with a dynamic team</p>
             </div>
           </motion.li>
           
@@ -44,9 +45,9 @@ const Experience = () => {
               <div className="hidden sm:flex w-full bg-gray-700 h-0.5 dark:bg-gray-700"></div>
             </div>
             <div className="mt-3 sm:pe-8">
-              <h3 className="text-lg font-bold text-gray-900 dark:text-black">Trip Fox Travellers</h3>
-              <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-800">February, 2024 - currently</time>
-              <p className="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
+              <h3 className="text-lg font-bold text-gray-900 dark:text-black">Skill Genie</h3>
+              <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-800">March, 2024 - currently</time>
+              <p className="text-base font-normal text-gray-500 dark:text-gray-400">I`ll be focusing on MERN Stack and related projects, and I can`t wait to bring my skills to the table!</p>
             </div>
           </motion.li>
           <motion.li
@@ -62,9 +63,9 @@ const Experience = () => {
               <div className="hidden sm:flex w-full bg-gray-700 h-0.5 dark:bg-gray-700"></div>
             </div>
             <div className="mt-3 sm:pe-8">
-              <h3 className="text-lg font-bold text-gray-900 dark:text-black">Trip Fox Travellers</h3>
+              <h3 className="text-lg font-bold text-gray-900 dark:text-black">Afame Technologies</h3>
               <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-800">February, 2024 - currently</time>
-              <p className="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
+              <p className="text-base font-normal text-gray-500 dark:text-gray-400">I`ll be focusing on MERN Stack and related projects, and I can`t wait to bring my skills to the table!</p>
             </div>
           </motion.li>
 

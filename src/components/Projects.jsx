@@ -7,8 +7,11 @@ import P1 from '../assets/project/Meubles.png';
 import P2 from '../assets/project/github.png';
 import P3 from '../assets/project/bs.png';
 import P4 from '../assets/project/car.png';
-// import P4 from '../assets/project/Meubles.png';
-// import P5 from '../assets/project/Meubles.png';
+
+import P5 from '../assets/project/pokemon.png';
+import P6 from '../assets/project/portfolio.png';
+
+
 const projects = [
   {
     id: 1,
@@ -45,6 +48,24 @@ const projects = [
     github: 'https://github.com/rohith2613/Car-manufacture',
     live:'https://deead-cars.netlify.app', 
     image: P4,   
+  },
+  {
+    id: 5,
+    title: 'Portfolio Site',
+    description: 'I create a portfolio using ReactJs , tailwindcss and use animations',
+    skills: ['React','framer-motion','Tailwindcss','Lottie-files'],
+    github: 'https://github.com/rohith2613/rohith-portfolio',
+    live:'https://deead-cars.netlify.app', 
+    image: P6,   
+  },
+  {
+    id: 6,
+    title: 'Pokemon App',
+    description: 'I create a Pokemon App using ReactJs , tailwindcss and use animations',
+    skills: ['React','API','Tailwindcss','Resopnsive'],
+    github: 'https://github.com/rohith2613/pokemon-app',
+    live:'https://pokemon-app-rohith.vercel.app/', 
+    image: P5,   
   },
 ];
 

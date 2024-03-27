@@ -24,7 +24,7 @@ const Services = () => {
           <p className="text-lg font-bold text-gray-700">
             As a MERN stack developer, I offer the following services:
           </p>
-          <div className='grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-40 ' >
+          <div className='grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-40 mt-8 ' >
             <div className=''>
               <Lottie animationData={anim4} />
             </div>
