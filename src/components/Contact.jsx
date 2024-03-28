@@ -15,6 +15,7 @@ const Contact = () => {
     emailjs
       .sendForm('service_xymb2od', 'template_ahwmcbt', formRef.current, {
         publicKey: 'aCCfea2GMTFpYT37D',
+        
       })
       .then(
         (response) => {
